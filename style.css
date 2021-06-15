@@ -1,0 +1,22 @@
+body {
+    background-color:yellowgreen;
+}
+
+label {
+    background-color: white;
+    padding: 5px;
+    border-radius: 25px;
+    color: darkslateblue;
+}
+
+#camera {
+    border-width: 3px;
+    border-color:firebrick;
+    border-style:dashed;
+}
+
+#webcam {
+    border-width: 3px;
+    border-color:firebrick;
+    border-style:dashed;
+}
